@@ -1,6 +1,0 @@
-{
-	"name": "Dialogflow webhook test",
-	"description":  "Dialogflow webhook test using Heroku and git",
-	"repository": "https://github.com/CoryR26/TestFactFunctions",
-	"keywords": ["Dialogflow", "Heroku"]
-}

@@ -2,7 +2,7 @@
 
 - [x] Adding/removing files
 - [x] Editing and updating files
-- [ ] Deploying to Heroku
+- [ ] Deploying with Heroku
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
